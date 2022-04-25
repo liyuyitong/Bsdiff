@@ -1,0 +1,91 @@
+{
+  "stringTable": {
+    "0": "/Users/migu-liyu/Desktop/migu/work_space/basdiff/app/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android --gcc-toolchain=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot -Dupdate_lib_EXPORTS -isystem /Users/migu-liyu/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/migu-liyu/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/migu-liyu/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward -isystem /Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "2": "--target=i686-none-linux-android --gcc-toolchain=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot -Dupdate_lib_EXPORTS -isystem /Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/Users/migu-liyu/Desktop/migu/work_space/basdiff/app/src/main/cpp/CMakeLists.txt",
+    "/Users/migu-liyu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/migu-liyu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/migu-liyu/Desktop/migu/work_space/basdiff/app/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/migu-liyu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/migu-liyu/Desktop/migu/work_space/basdiff/app/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "update-lib-Debug-x86": {
+      "buildCommand": "/Users/migu-liyu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/migu-liyu/Desktop/migu/work_space/basdiff/app/.cxx/cmake/debug/x86\" update-lib",
+      "buildType": "debug",
+      "toolchain": "1618486816",
+      "abi": "x86",
+      "artifactName": "update-lib",
+      "files": [
+        {
+          "src": "/Users/migu-liyu/Desktop/migu/work_space/basdiff/app/src/main/cpp/bspatch.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/migu-liyu/Desktop/migu/work_space/basdiff/app/src/main/cpp/bzip/blocksort.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/migu-liyu/Desktop/migu/work_space/basdiff/app/src/main/cpp/bzip/bzip2.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/migu-liyu/Desktop/migu/work_space/basdiff/app/src/main/cpp/bzip/bzlib.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/migu-liyu/Desktop/migu/work_space/basdiff/app/src/main/cpp/bzip/compress.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/migu-liyu/Desktop/migu/work_space/basdiff/app/src/main/cpp/bzip/crctable.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/migu-liyu/Desktop/migu/work_space/basdiff/app/src/main/cpp/bzip/decompress.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/migu-liyu/Desktop/migu/work_space/basdiff/app/src/main/cpp/bzip/huffman.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/migu-liyu/Desktop/migu/work_space/basdiff/app/src/main/cpp/bzip/randtable.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/migu-liyu/Desktop/migu/work_space/basdiff/app/src/main/cpp/update-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/migu-liyu/Desktop/migu/work_space/basdiff/app/build/intermediates/cmake/debug/obj/x86/libupdate-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "1618486816": {
+      "cCompilerExecutable": "/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

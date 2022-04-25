@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "/Users/migu-liyu/Desktop/migu/work_space/basdiff/app/src/main/cpp/CMakeLists.txt",
+    "/Users/migu-liyu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/migu-liyu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/migu-liyu/Desktop/migu/work_space/basdiff/app/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/migu-liyu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/migu-liyu/Desktop/migu/work_space/basdiff/app/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "update-lib-Debug-x86": {
+      "artifactName": "update-lib",
+      "buildCommand": "/Users/migu-liyu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/migu-liyu/Desktop/migu/work_space/basdiff/app/.cxx/cmake/debug/x86\" update-lib",
+      "abi": "x86",
+      "output": "/Users/migu-liyu/Desktop/migu/work_space/basdiff/app/build/intermediates/cmake/debug/obj/x86/libupdate-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

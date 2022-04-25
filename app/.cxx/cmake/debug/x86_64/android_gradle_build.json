@@ -1,0 +1,91 @@
+{
+  "stringTable": {
+    "0": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/debug/x86_64",
+    "1": "--target=x86_64-none-linux-android --gcc-toolchain=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot -Dupdate_lib_EXPORTS -isystem /Users/migu-liyu/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/migu-liyu/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86_64/include -isystem /Users/migu-liyu/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward -isystem /Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "2": "--target=x86_64-none-linux-android --gcc-toolchain=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot -Dupdate_lib_EXPORTS -isystem /Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/CMakeLists.txt",
+    "/Users/migu-liyu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/migu-liyu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/debug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/migu-liyu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "update-lib-Debug-x86_64": {
+      "buildCommand": "/Users/migu-liyu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/debug/x86_64\" update-lib",
+      "buildType": "debug",
+      "toolchain": "1618486816",
+      "abi": "x86_64",
+      "artifactName": "update-lib",
+      "files": [
+        {
+          "src": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bspatch.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bzip/blocksort.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bzip/bzip2.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bzip/bzlib.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bzip/compress.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bzip/crctable.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bzip/decompress.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bzip/huffman.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bzip/randtable.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/update-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/build/intermediates/cmake/debug/obj/x86_64/libupdate-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "1618486816": {
+      "cCompilerExecutable": "/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

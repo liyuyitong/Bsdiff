@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/CMakeLists.txt",
+    "/Users/migu-liyu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/migu-liyu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/release/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/migu-liyu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/release/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "update-lib-Release-arm64-v8a": {
+      "artifactName": "update-lib",
+      "buildCommand": "/Users/migu-liyu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/release/arm64-v8a\" update-lib",
+      "abi": "arm64-v8a",
+      "output": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/build/intermediates/cmake/release/obj/arm64-v8a/libupdate-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

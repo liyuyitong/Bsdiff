@@ -1,0 +1,61 @@
+[
+{
+  "directory": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android --gcc-toolchain=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot  -Dupdate_lib_EXPORTS -isystem /Users/migu-liyu/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/migu-liyu/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem /Users/migu-liyu/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/update-lib.dir/update-lib.cpp.o -c /Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/update-lib.cpp",
+  "file": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/update-lib.cpp"
+},
+
+{
+  "directory": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android --gcc-toolchain=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot -Dupdate_lib_EXPORTS  -isystem /Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/update-lib.dir/bspatch.c.o   -c /Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bspatch.c",
+  "file": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bspatch.c"
+},
+
+{
+  "directory": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android --gcc-toolchain=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot -Dupdate_lib_EXPORTS  -isystem /Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/update-lib.dir/bzip/blocksort.c.o   -c /Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bzip/blocksort.c",
+  "file": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bzip/blocksort.c"
+},
+
+{
+  "directory": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android --gcc-toolchain=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot -Dupdate_lib_EXPORTS  -isystem /Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/update-lib.dir/bzip/bzip2.c.o   -c /Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bzip/bzip2.c",
+  "file": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bzip/bzip2.c"
+},
+
+{
+  "directory": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android --gcc-toolchain=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot -Dupdate_lib_EXPORTS  -isystem /Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/update-lib.dir/bzip/bzlib.c.o   -c /Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bzip/bzlib.c",
+  "file": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bzip/bzlib.c"
+},
+
+{
+  "directory": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android --gcc-toolchain=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot -Dupdate_lib_EXPORTS  -isystem /Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/update-lib.dir/bzip/compress.c.o   -c /Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bzip/compress.c",
+  "file": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bzip/compress.c"
+},
+
+{
+  "directory": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android --gcc-toolchain=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot -Dupdate_lib_EXPORTS  -isystem /Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/update-lib.dir/bzip/crctable.c.o   -c /Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bzip/crctable.c",
+  "file": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bzip/crctable.c"
+},
+
+{
+  "directory": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android --gcc-toolchain=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot -Dupdate_lib_EXPORTS  -isystem /Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/update-lib.dir/bzip/decompress.c.o   -c /Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bzip/decompress.c",
+  "file": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bzip/decompress.c"
+},
+
+{
+  "directory": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android --gcc-toolchain=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot -Dupdate_lib_EXPORTS  -isystem /Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/update-lib.dir/bzip/huffman.c.o   -c /Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bzip/huffman.c",
+  "file": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bzip/huffman.c"
+},
+
+{
+  "directory": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android --gcc-toolchain=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot -Dupdate_lib_EXPORTS  -isystem /Users/migu-liyu/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/update-lib.dir/bzip/randtable.c.o   -c /Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bzip/randtable.c",
+  "file": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/bzip/randtable.c"
+}
+]

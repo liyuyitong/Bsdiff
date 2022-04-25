@@ -1,0 +1,3 @@
+/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/update-lib.dir

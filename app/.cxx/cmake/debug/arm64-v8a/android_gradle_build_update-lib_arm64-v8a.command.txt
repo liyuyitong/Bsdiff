@@ -1,0 +1,7 @@
+Executable : /Users/migu-liyu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/debug/arm64-v8a
+update-lib
+jvmArgs : 
+

@@ -1,0 +1,9 @@
+CMake Warning at /Users/migu-liyu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake:63 (message):
+  Using custom NDK path (ANDROID_NDK is set):
+  /Users/migu-liyu/Library/Android/sdk/ndk-bundle
+Call Stack (most recent call first):
+  /Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/debug/x86_64/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  CMakeLists.txt:10 (project)
+
+
+Configuring done

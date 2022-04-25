@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/src/main/cpp/CMakeLists.txt",
+    "/Users/migu-liyu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/migu-liyu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/debug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/migu-liyu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "update-lib-Debug-x86_64": {
+      "artifactName": "update-lib",
+      "buildCommand": "/Users/migu-liyu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/.cxx/cmake/debug/x86_64\" update-lib",
+      "abi": "x86_64",
+      "output": "/Users/migu-liyu/Desktop/migu/work_space/manong_project/bisdiffdemo/app/build/intermediates/cmake/debug/obj/x86_64/libupdate-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}
